@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 350" role="img" aria-labelledby="title desc">
+  <title id="title">DJOSTROY</title>
+  <desc id="desc">Золотой логотип DJOSTROY на прозрачном фоне</desc>
+
+  <g transform="translate(32 8)" fill="#E2B642" stroke="#E2B642">
+    <path d="M70 82A84 84 0 1 0 186 82" fill="none" stroke-width="11" stroke-linecap="round"/>
+    <path d="M88 46L114 61V196H88V46Z" stroke="none"/>
+    <path d="M124 82L150 97V196H124V82Z" stroke="none"/>
+    <path d="M160 125L184 139V196H160V125Z" stroke="none"/>
+    <path d="M74 196H190" fill="none" stroke-width="11" stroke-linecap="round"/>
+  </g>
+
+  <text x="160" y="304" text-anchor="middle" fill="#E2B642"
+        font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="38" font-weight="900"
+        letter-spacing="2.2">DJOSTROY</text>
+</svg>

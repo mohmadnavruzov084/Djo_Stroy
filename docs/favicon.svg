@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="45 -12 200 225" role="img" aria-label="DJOSTROY">
+  <g transform="translate(20 -3)" fill="#E2B642" stroke="#E2B642">
+    <path d="M70 82A84 84 0 1 0 186 82" fill="none" stroke-width="11" stroke-linecap="round"/>
+    <path d="M88 46L114 61V196H88V46Z" stroke="none"/>
+    <path d="M124 82L150 97V196H124V82Z" stroke="none"/>
+    <path d="M160 125L184 139V196H160V125Z" stroke="none"/>
+    <path d="M74 196H190" fill="none" stroke-width="11" stroke-linecap="round"/>
+  </g>
+</svg>
